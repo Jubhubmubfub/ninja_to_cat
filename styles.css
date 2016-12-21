@@ -1,0 +1,29 @@
+* {
+  padding:0px;
+  margin:0px;
+}
+.wrapper {
+  padding-top:30px;
+  width:970px;
+  /*height:1000px;*/
+  /*background:coral;*/
+  text-align: center;
+}
+
+.wrapper img {
+  width:30%;
+  margin:auto;
+  padding-top:5px;
+  /*margin-left:auto;
+  margin-right:auto;*/
+  display: block;
+}
+
+.wrapper div {
+  padding:5px 10px;
+  color: white;
+  background: green;
+  box-shadow: 2px 2px 2px black;
+  display:inline-block;
+  margin-top:10px;
+}
